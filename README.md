@@ -1,1 +1,1 @@
-# Trabajo Practico 5 de Paradigmas de Programacion
+# TP 5 Paradigmas de Programacion
